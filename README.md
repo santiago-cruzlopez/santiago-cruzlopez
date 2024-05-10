@@ -6,7 +6,7 @@ Besides analyzing, testing, and assessing system requirements, I develop and imp
 
 Finally, I'm known for my exceptional problem-solving skills and ability to deliver high-quality IT infrastructure and operations support.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<santiago-cruzlopez>'s Stats](https://github-readme-stats.vercel.app/api?username=<santiago-cruzlopez>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ### Social media: 📡
 
