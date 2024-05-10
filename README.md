@@ -1,22 +1,25 @@
-# Hi, I'm Santiago Cruz! 👋
-
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
-![<santiago-cruzlopez>'s Stats](https://github-readme-stats.vercel.app/api?username=<santiago-cruzlopez>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
-- 🔭 I just got a College Diploma, Co-op for the Computer Systems Techninician-Networking program from Georgian College.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+I am a Cisco Certified Network Associate (CCNA) with over three years of IT experience plus a college degree in Computer Systems Technician - Networking, I specialize in Networking, System Administration, and Microsoft Azure.
+
+Besides analyzing, testing, and assessing system requirements, I develop and implement information systems development plans, policies, and procedures. Additionally, I provide advice on various issues related to information systems.
+
+Finally, I'm known for my exceptional problem-solving skills and ability to deliver high-quality IT infrastructure and operations support.
+
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+### Social media: 📡
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,azure,bash,c,cpp,py)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -30,13 +33,6 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
  ## 🏆 Achievements
 
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
-
-## 📬 Get in Touch
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 <!--
 
