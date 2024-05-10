@@ -6,17 +6,15 @@ Besides analyzing, testing, and assessing system requirements, I develop and imp
 
 Finally, I'm known for my exceptional problem-solving skills and ability to deliver high-quality IT infrastructure and operations support.
 
-![<santiago-cruzlopez>'s Stats](https://github-readme-stats.vercel.app/api?username=<santiago-cruzlopez>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<santiago-cruzlopez>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ### Social media: 📡
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
+Let's connect and explore the fascinating world of technology together. 🚀
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=arduino,azure,bash,c,cpp,py)](https://skillicons.dev)
@@ -35,17 +33,3 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
-
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Algorithmic Trading Bots (Expert Advisors) using MT4
-- 🌱 I’m currently learning Python for EA using MT4
-- 👯 I’m looking to collaborate on Algorithmic Trading and automation tools for Windows/Linux Administration.
-- 📫 How to reach me: https://www.linkedin.com/in/santi-cruz/
--->
