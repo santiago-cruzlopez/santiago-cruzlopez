@@ -10,6 +10,11 @@ Finally, I'm known for my exceptional problem-solving skills and ability to deli
 Connect with me on LinkedIn, where I share insights, victories, and articles.
 - [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
 
+### Working on: 🚀
+
+- Tweaking this README for optimal engagement 
+- [Algorithmic Trading A-Z with Python, Machine Learning & AWS Course](https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning/?couponCode=ACCAGE0923)
+
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=arduino,azure,bash,c,cpp,py)](https://skillicons.dev)
 
