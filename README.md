@@ -12,7 +12,7 @@ Finally, I'm known for my exceptional problem-solving skills and ability to deli
 Connect with me on LinkedIn, where I share insights, victories, and articles.
 - [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
 
-## Tech Stack
+### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=arduino,azure,bash,c,cpp,py)](https://skillicons.dev)
 
 ### OS: Linux, Windows, and macOS
