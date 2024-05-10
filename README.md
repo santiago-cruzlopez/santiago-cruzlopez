@@ -21,6 +21,12 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=arduino,azure,bash,c,cpp,py)](https://skillicons.dev)
 
+### OS: Linux, Windows, and macOS
+
+| Linux | Ubuntu | Kali | Windows | macOS |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="macOS" alt="macOS" width="55" height="55"/> |
+
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
