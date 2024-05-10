@@ -19,7 +19,7 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=arduino,azure,bash,c,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,azure,bash,c,cpp,py=3)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
