@@ -2,7 +2,7 @@
 
 I am a Cisco Certified Network Associate (CCNA) with over three years of IT experience. I have a college degree in Computer Systems Technician - Networking, and specialize in Cisco Networking, System Administration, and Algorithmic Trading.
 
-Besides PowerShell scripting and Python automation skills, I specialize in enhancing performance, scalability, reliability, and resiliency of IT services and network connectivity across LAN/WAN infrastructure for Windows Server, Windows 10/11, and Linux.
+Besides PowerShell scripting and Python automation skills, I specialize in enhancing performance, scalability, reliability, and resiliency of IT services and network connectivity across LAN/WAN infrastructure and Windows Server, Windows 10/11, and Linux.
 
 Finally, I'm known for my exceptional problem-solving skills and ability to deliver high-quality IT infrastructure and operations support.
 
