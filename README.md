@@ -1,8 +1,8 @@
 ## 🚀 About Me
 
-I am a Cisco Certified Network Associate (CCNA) with over three years of IT experience plus a college degree in Computer Systems Technician - Networking, I specialize in Networking, System Administration, and Microsoft Azure.
+I am a Cisco Certified Network Associate (CCNA) with over three years of IT experience. I have a college degree in Computer Systems Technician - Networking, and specialize in Cisco Networking, System Administration, and Algorithmic Trading.
 
-Besides analyzing, testing, and assessing system requirements, I develop and implement information systems development plans, policies, and procedures. Additionally, I provide advice on various issues related to information systems.
+Besides PowerShell scripting and Python automation skills, I specialize in enhancing performance, scalability, reliability, and resiliency of IT services and network connectivity across LAN/WAN infrastructure for Windows Server, Windows 10/11, and Linux.
 
 Finally, I'm known for my exceptional problem-solving skills and ability to deliver high-quality IT infrastructure and operations support.
 
