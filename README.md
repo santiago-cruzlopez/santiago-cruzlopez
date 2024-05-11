@@ -6,7 +6,7 @@ Besides analyzing, testing, and assessing system requirements, I develop and imp
 
 Finally, I'm known for my exceptional problem-solving skills and ability to deliver high-quality IT infrastructure and operations support.
 
-### Obsessed with Network Administration, Coding and Running:
+### Obsessed with Network Administration, Algorithmic Trading and Running:
 - Connect with me on LinkedIn, where I share insights, victories, and articles: [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
 - Review my IT certifications: [Credly](https://www.credly.com/users/santiago.cruzlopez/badges)
 - Follow my running activities on Strava: [Strava](https://www.strava.com/athletes/santiago-cruz)
