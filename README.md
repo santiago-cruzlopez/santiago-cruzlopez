@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I am a Cisco Certified Network Associate (CCNA) with over three years of IT experience. I have a college degree in Computer Systems Technician - Networking, and specialize in Cisco Networking, System Administration, and Algorithmic Trading.
+I am a Cisco Certified Network Associate (CCNA) with over three years of IT experience. I have a college degree in Computer Systems Technician - Networking, and specialize in Cisco Networking, System Administration and IT Helpdesk Support.
 
 Besides PowerShell scripting and Python automation skills, I specialize in enhancing performance, scalability, reliability, and resiliency of IT services and network connectivity across LAN/WAN infrastructure and Windows Server, Windows 10/11, and Linux.
 
@@ -14,6 +14,7 @@ Finally, I'm known for my exceptional problem-solving skills and ability to deli
 ### Working and Studying on: 🚀
 - I am carried out the extensive process of backtesting over 300 Expert Advisors on the Financial Markets using the advanced trading platform MetaTrader 4 (MT4) and a reliable physical server. This in-depth analysis allowed me to evaluate the performance of various trading strategies in different market conditions and make informed decisions based on the results.
 - [Algorithmic Trading A-Z with Python, Machine Learning & AWS Course](https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning/?couponCode=ACCAGE0923)
+- Studying for getting CompTIA A+, Network +, and Server+
 
 ### Tech Savvy
 [![My Skills](https://skillicons.dev/icons?i=arduino,azure,bash,py,c,cpp)](https://skillicons.dev)
