@@ -14,7 +14,7 @@ Finally, I'm known for my exceptional problem-solving skills and ability to deli
 ### Working and Studying on: 🚀
 - I am carried out the extensive process of backtesting over 300 Expert Advisors on the Financial Markets using the advanced trading platform MetaTrader 4 (MT4) and a reliable physical server. This in-depth analysis allowed me to evaluate the performance of various trading strategies in different market conditions and make informed decisions based on the results.
 - [Algorithmic Trading A-Z with Python, Machine Learning & AWS Course](https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning/?couponCode=ACCAGE0923)
-- Studying for getting CompTIA A+, Network +, and Server+
+- Studying for getting CompTIA A+, Network +, and Server+ certifications.
 
 ### Tech Savvy
 [![My Skills](https://skillicons.dev/icons?i=arduino,azure,bash,py,c,cpp)](https://skillicons.dev)
