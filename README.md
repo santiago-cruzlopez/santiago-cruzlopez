@@ -9,7 +9,12 @@ Finally, I'm known for my exceptional problem-solving skills and ability to deli
 ### Obsessed with Network Administration, Algorithmic Trading and Running:
 - Connect with me on LinkedIn, where I share insights, victories, and articles: [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
 - Check my IT certifications: [Credly](https://www.credly.com/users/santiago.cruzlopez/badges)
-- Follow my running activities on Strava: [Strava](https://www.strava.com/athletes/santiago-cruz)
+- Follow my running activities on Strava: <a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/129457637' target="_clean">
+  Follow me on
+  <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
+</a>
+
+  [Strava](https://www.strava.com/athletes/santiago-cruz)
 
 ### Working and Studying on: 🚀
 - I am carried out the extensive process of backtesting over 300 Bots (Expert Advisors) on the Financial Markets using the advanced trading platform MetaTrader 4 (MT4) and a reliable physical server. This in-depth analysis allowed me to evaluate the performance of various trading strategies in different market conditions and make informed decisions based on the results.
