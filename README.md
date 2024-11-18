@@ -21,8 +21,11 @@ Finally,  I am recognized for my exceptional problem-solving skills and commitme
 ### Tech Savvy
 [![My Skills](https://skillicons.dev/icons?i=arduino,azure,bash,py,c,cpp)](https://skillicons.dev)
 
-### OS: Linux and Windows Lover ❤️
+### OS: Windows and Linux Lover ❤️
 
 | Linux | Ubuntu | Red Hat | Windows |
 |----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Red Hat" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Red Hat" alt="Linux" width="55" height="55"/> |
