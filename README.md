@@ -23,9 +23,6 @@ Finally,  I am recognized for my exceptional problem-solving skills and commitme
 
 ### OS: Windows and Linux Lover ❤️
 
-| Linux | Ubuntu | Red Hat | Windows |
+| Windows | Linux | Ubuntu | Red Hat | 
 |----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Red Hat" alt="Linux" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Red Hat" alt="Linux" width="55" height="55"/> |
