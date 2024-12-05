@@ -2,9 +2,9 @@
 
 I am a Cisco Certified Network Associate (CCNA) with over three years of IT experience. I have a college degree in Computer Systems Technician - Networking, and specialize in Cisco Networking, System Administration and IT Helpdesk Support.
 
-Besides PowerShell scripting and Python automation skills, I specialize in enhancing performance, scalability, reliability, and resiliency of IT services and network connectivity across LAN/WAN infrastructure and Windows Server, Windows 10/11, and Linux.
+Besides PowerShell scripting and Python automation skills, I specialize in enhancing performance, scalability, reliability, and resiliency of IT services and network connectivity across LAN/WAN infrastructure and Windows Server, Windows 10/11, and Ubuntu Linux.
 
-Finally,  I am recognized for my exceptional problem-solving skills and commitment to delivering high-quality Data Center Infrastructure and 24/7 operational support.
+Finally,  I am recognized for my exceptional problem-solving skills and commitment to delivering high-quality Data Center Infrastructure and 24x7 operational support.
 
 ### Obsessed with Network Administration, Algorithmic Trading and Running:
 - Connect with me on LinkedIn, where I share insights, victories, and articles: [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
