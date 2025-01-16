@@ -16,7 +16,6 @@ Finally,  I am recognized for my exceptional problem-solving skills and commitme
 ### Working and Studying on: 🚀
 - Check out my repository [MQL5](https://github.com/santiago-cruzlopez/AlgoNet-EA-MQL5), where you'll find the financial trading bots I've developed using the MQL5 language for the MT5 platform. I've conducted all backtesting using the ICMarkets broker. 
 - [Algorithmic Trading A-Z with Python, Machine Learning & AWS Course](https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning/?couponCode=ACCAGE0923)
-- Studying for getting CompTIA Linux+ certification.
 
 ### Tech Savvy
 [![My Skills](https://skillicons.dev/icons?i=arduino,azure,bash,py,c,cpp)](https://skillicons.dev)
