@@ -26,5 +26,8 @@ Finally,  I am recognized for my exceptional problem-solving skills and commitme
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Red Hat" alt="Linux" width="55" height="55"/> |
 
+## Santiago Cruz's GitHub Stats  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiago-cruzlopez&show_icons=true&locale=en" alt="santiago-cruzlopez" /></p> <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiago-cruzlopez&show_icons=true&locale=en&layout=compact" alt="santiago-cruzlopez" /></p>
+| **GitHub Statistics** | **Programming Languages** |  
+|:---:|:---:|  
+| ![Santiago Cruz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiago-cruzlopez&show_icons=true&locale=en) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=santiago-cruzlopez&show_icons=true&locale=en&layout=compact) |
