@@ -28,6 +28,6 @@ Finally,  I am recognized for my exceptional problem-solving skills and commitme
 
 ## Santiago Cruz's GitHub Stats  
 
-| **GitHub Statistics** | **Programming Languages** |  
+| **Statistics** | **Programming Languages** |  
 |:---:|:---:|  
 | ![Santiago Cruz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiago-cruzlopez&show_icons=true&locale=en) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=santiago-cruzlopez&show_icons=true&locale=en&layout=compact) |
