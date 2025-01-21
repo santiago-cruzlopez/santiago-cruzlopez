@@ -28,3 +28,5 @@ Finally,  I am recognized for my exceptional problem-solving skills and commitme
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiago-cruzlopez&show_icons=true&locale=en" alt="santiago-cruzlopez" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiago-cruzlopez&show_icons=true&locale=en&layout=compact" alt="santiago-cruzlopez" /></p>
