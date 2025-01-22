@@ -18,7 +18,7 @@ Finally,  I am recognized for my exceptional problem-solving skills and commitme
 - [Algorithmic Trading A-Z with Python, Machine Learning & AWS Course](https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning/?couponCode=ACCAGE0923)
 
 ### Tech Savvy
-[![My Skills](https://skillicons.dev/icons?i=arduino,azure,bash,py,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,aws,azure,py,cpp,c&perline=3)](https://skillicons.dev)
 
 ### OS: Windows and Linux Lover ❤️
 
