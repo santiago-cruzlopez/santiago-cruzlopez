@@ -15,7 +15,7 @@ Finally,  I am recognized for my exceptional problem-solving skills and commitme
 
 ### Working and Studying on: 🚀
 - Check out my repository [MQL5](https://github.com/santiago-cruzlopez/AlgoNet-EA-MQL5), where you'll find the financial trading bots I've developed using the MQL5 language for the MT5 platform. I've conducted all backtesting using the ICMarkets broker. 
-- Studying [Quantitative Trading](https://github.com/santiago-cruzlopez/Quantitative-Trading) and [Network Automation](https://github.com/santiago-cruzlopez/Network-Automation)
+- Studying [Quantitative Trading](https://github.com/santiago-cruzlopez/Quantitative-Trading) and [Network Automation](https://github.com/santiago-cruzlopez/Network-Automation).
 
 ### Tech Savvy
 [![My Skills](https://skillicons.dev/icons?i=arduino,aws,azure,cpp,py,powershell&perline=3)](https://skillicons.dev)
