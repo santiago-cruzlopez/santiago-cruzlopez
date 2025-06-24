@@ -1,17 +1,12 @@
 ## 🚀 About Me
 
-I am a Cisco Certified Network Associate (CCNA) with over three years of IT experience. I have a college degree in Computer Systems Technician - Networking, and specialize in Cisco Networking, System Administration and IT Helpdesk Support.
+Hi there! I'm Santiago Cruz, a System Support Specialist with over 4 years of hands-on experience in IT infrastructure, system administration, and network operations.
 
-Besides PowerShell scripting and Python automation skills, I specialize in enhancing performance, scalability, reliability, and resiliency of IT services and network connectivity across LAN/WAN infrastructure and Windows Server, Windows 10/11, and Ubuntu Linux.
+I specialize in managing and supporting enterprise systems across Windows, Linux, and virtualization environments (VMware, Hyper-V, and Proxmox), with a strong focus on automation, cybersecurity, and high-availability systems. I've worked extensively in 24/7 data center settings and educational institutions, resolving complex technical issues and delivering scalable support solutions.
 
-Finally,  I am recognized for my exceptional problem-solving skills and commitment to delivering high-quality Data Center Infrastructure and 24x7 operational support.
-
-### Obsessed with Network Administration, Algorithmic Trading and Running:
-- Connect with me on LinkedIn, where I share insights, victories, and articles: [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
+- Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
 - Check my IT certifications: [Credly](https://www.credly.com/users/santiago.cruzlopez/badges)
-- <a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/129457637' target="_clean">
-  Follow my running activities on:  <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
-</a>
+  <a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/129457637' target="_clean">
 
 ### Working and Studying on: 🚀
 - Check out my repository [MQL5](https://github.com/santiago-cruzlopez/AlgoNet-EA-MQL5), where you'll find the financial trading bots I've developed using the MQL5 language for the MT5 platform. I've conducted all backtesting using the ICMarkets broker. 
