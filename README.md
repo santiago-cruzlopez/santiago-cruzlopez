@@ -1,25 +1,34 @@
 ## 🚀 About Me
 
-Hi there! I'm Santiago Cruz, a System Support Specialist with over 4 years of hands-on experience in IT infrastructure, system administration, and network operations.
+Hi there! I'm Santiago Cruz, a Computer and Systems Specialist with 5+ years of expertise in enterprise IT infrastructure, system administration, and network operations. Proficient across Windows, Linux, and virtualization platforms (VMware, Hyper-V, Proxmox) in 24/7 data center and academic environments. Passionate about automation, computational finance, and embedded systems.
 
-I specialize in managing and supporting enterprise systems across Windows, Linux, and virtualization environments (VMware, Hyper-V, and Proxmox), with a strong focus on automation, cybersecurity, and high-availability systems. I've worked extensively in 24/7 data center settings and educational institutions, resolving complex technical issues and delivering scalable support solutions.
-
-- Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
-- Check my IT certifications: [Credly](https://www.credly.com/users/santiago.cruzlopez/badges)
+- Connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
+- View IT Certifications: [Credly](https://www.credly.com/users/santiago.cruzlopez/badges)
   <a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/129457637' target="_clean">
 
-### Working and Studying on: 🚀
-- Check out my repository [MQL5](https://github.com/santiago-cruzlopez/AlgoNet-EA-MQL5), where you'll find the financial trading bots I've developed using the MQL5 language for the MT5 platform. I've conducted all backtesting using the ICMarkets broker. 
-- Studying [Quantitative Trading](https://github.com/santiago-cruzlopez/Quantitative-Trading) and [Network Automation](https://github.com/santiago-cruzlopez/Network-Automation).
+## Embedded Systems Projects
+- [GST-DeckLink](https://github.com/santiago-cruzlopez/GST-DeckLink) - High-performance C/C++ and Python implementation for BlackMagic DeckLink Duo card integration. Features GPU acceleration with OpenCV and CUDA for optimized video processing in broadcasting and live events.
+- [Network-Automation](https://github.com/santiago-cruzlopez/Network-Automation) - Advanced C++/Python framework for automating network device configuration, management, testing, and deployment. Enhances service availability by minimizing human error and streamlining routine network operations across physical and virtual infrastructure.
+- [Smart Home Automation System](https://github.com/santiago-cruzlopez/Arduino-Projects/tree/main/2_Home%20Automation) - IoT solution using Arduino UNO R4 WIFI with Arduino Cloud integration. Includes DHT11 environmental monitoring, I2C LCD, motion detection, and remote control capabilities. Explore additional Arduino and IoT projects in the [Arduino-Projects](https://github.com/santiago-cruzlopez/Arduino-Projects).
+
+## Computational Finance Projects
+- [MQL5](https://github.com/santiago-cruzlopez/MQL5) - Developed automated trading algorithms on the MetaTrader 5 platform using MQL5 language to develop profitable Expert Advisors. Implemented various strategies, including trend following, scalping, and neural networks, with robust risk management, backtesting capabilities, and Discord integration for real-time alerts.
+- [Quantitative-Trading](https://github.com/santiago-cruzlopez/Quantitative-Trading) - Comprehensive trading toolkit featuring data acquisition, backtesting engines, and machine learning integration with TensorFlow/Keras and Auto-Bayesian Neural Networks for predictive market analysis.
+
+## Skills
+- **Infrastructure & Virtualization:** VMware vSphere & ESXi - Hyper-V - Proxmox VE - SAN/NAS
+- **Operating Systems & Automation:** Windows Server - Ubuntu - PowerShell - Bash - Ansible - Puppet
+- **Networking & Security:** Cisco IOS - VLANs, BGP, OSPF - Firewalls (Fortinet, Palo Alto) - VPN - IDS/IPS
+- **Programming & Scripting:** Python - C/C++ - MQL5 - Bash - Git
 
 ### Tech Savvy
 [![My Skills](https://skillicons.dev/icons?i=arduino,aws,azure,cpp,py,powershell&perline=3)](https://skillicons.dev)
 
 ### OS: Windows and Linux Lover ❤️
 
-| Windows | Linux | Ubuntu | Red Hat | 
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Red Hat" alt="Linux" width="55" height="55"/> |
+| Windows | Linux | Ubuntu |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 
 ## Santiago Cruz's GitHub Stats  
 
