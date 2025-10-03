@@ -8,7 +8,7 @@ Hi there! I'm Santiago Cruz, a Computer and Systems Specialist with 5+ years of 
 
 ## Embedded Systems Projects
 - [GST-DeckLink](https://github.com/santiago-cruzlopez/GST-DeckLink) - High-performance C/C++ and Python implementation for BlackMagic DeckLink Duo card integration. Features GPU acceleration with OpenCV and CUDA for optimized video processing in broadcasting and live events.
-- [HFT-Network-and-OS-Optimization-with-DPDK](https://github.com/santiago-cruzlopez/HFT-Network-and-OS-Optimization-with-DPDK) - C++20 project implementing DPDK-based kernel bypass, lock-free ring buffers, and system-level optimizations for sub-microsecond market-data processing on Ubuntu 22.
+- [Networking-DPDK](https://github.com/santiago-cruzlopez/Networking-DPDK) - High-Speed Packet Processing with DPDK is a modular CMake-based project for Ubuntu 22.04 LTS that demonstrates how to build scalable, low-latency networking applications using the Data Plane Development Kit.
 - [Smart Home Automation System](https://github.com/santiago-cruzlopez/Arduino-Projects/tree/main/2_Home%20Automation) - IoT solution using Arduino UNO R4 WIFI with Arduino Cloud integration. Includes DHT11 environmental monitoring, I2C LCD, motion detection, and remote control capabilities. Explore additional Arduino and IoT projects in the [Arduino-Projects](https://github.com/santiago-cruzlopez/Arduino-Projects).
 
 ## Computational Finance Projects
