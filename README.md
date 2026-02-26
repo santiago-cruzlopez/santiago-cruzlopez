@@ -1,14 +1,17 @@
 ## 🚀 About Me
 
-Hi there! I'm Santiago Cruz, a Computer and Systems Specialist with 5+ years of expertise in enterprise IT infrastructure, system administration, and network operations. Proficient across Windows, Linux, and virtualization platforms (VMware, Hyper-V, Proxmox) in 24/7 data center and academic environments. Passionate about automation, computational finance, and embedded systems.
+Hi there! I'm Santiago Cruz, a Computer and Systems Specialist with 5+ years of expertise in enterprise IT infrastructure, system administration, and network operations. Proficient across Windows, Linux, and virtualization platforms (VMware, Hyper-V, Proxmox) in 24/7 data center and academic environments. Passionate about AI, Network Automation, Computational Finance, and Embedded Systems.
 
 - Connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
 - View IT Certifications: [Credly](https://www.credly.com/users/santiago.cruzlopez/badges)
   <a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/129457637' target="_clean">
 
+## AI and Automation Projects
+- [WLV-MSc-AI](https://github.com/santiago-cruzlopez/WLV-MSc-AI) - Contains all codes and ML models I developed for my MSc in Artificial Intelligence at the University of Wolverhampton. It documents projects, experiments, and results, and includes core libraries (NumPy, Pandas, scikit-learn, TensorFlow, PyTorch, SciPy).
+- [Network-Automation](https://github.com/santiago-cruzlopez/Network-Automation) - A comprehensive Infrastructure as Code (IaC) repository designed to automate the lifecycle of network security operations.
+
 ## Embedded Systems Projects
 - [GST-DeckLink](https://github.com/santiago-cruzlopez/GST-DeckLink) - High-performance C/C++ and Python implementation for BlackMagic DeckLink Duo card integration. Features GPU acceleration with OpenCV and CUDA for optimized video processing in broadcasting and live events.
-- [Networking-DPDK](https://github.com/santiago-cruzlopez/Networking-DPDK) - High-Speed Packet Processing with DPDK is a modular CMake-based project for Ubuntu 22.04 LTS that demonstrates how to build scalable, low-latency networking applications using the Data Plane Development Kit.
 - [Smart Home Automation System](https://github.com/santiago-cruzlopez/Arduino-Projects/tree/main/2_Home%20Automation) - IoT solution using Arduino UNO R4 WIFI with Arduino Cloud integration. Includes DHT11 environmental monitoring, I2C LCD, motion detection, and remote control capabilities. Explore additional Arduino and IoT projects in the [Arduino-Projects](https://github.com/santiago-cruzlopez/Arduino-Projects).
 
 ## Computational Finance Projects
