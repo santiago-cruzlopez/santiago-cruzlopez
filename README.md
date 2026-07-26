@@ -1,40 +1,27 @@
 ## 🚀 About Me
 
-Hi there! I'm Santiago Cruz, a Computer and Systems Specialist with 5+ years of expertise in enterprise IT infrastructure, system administration, and network operations. Proficient across Windows, Linux, and virtualization platforms (VMware, Hyper-V, Proxmox) in 24/7 data center and academic environments. Passionate about AI, Network Automation, Computational Finance, and Embedded Systems.
+Hi, I'm Santiago Cruz — a Network Specialist with 5+ years in Enterprise Networking, Network Security, and 24/7 Data Center Operations (NOC), now focused on the intersection of Networking and AIOps. I'm completing an MSc in Artificial Intelligence and applying it to network operations: using automation and AIOps to reduce manual configuration, catch issues before they escalate, and make networks more self-managing.
 
-- Connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/santi-cruz/)
-- View IT Certifications: [Credly](https://www.credly.com/users/santiago.cruzlopez/badges)
-  <a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/129457637' target="_clean">
+- **LinkedIn:** [santi-cruz](https://www.linkedin.com/in/santi-cruz/)
+- **Certifications:** [Credly](https://www.credly.com/users/santiago.cruzlopez/badges) — CCNA, CCST, CompTIA A+
 
-## AI and Automation Projects
-- [WLV-MSc-AI](https://github.com/santiago-cruzlopez/WLV-MSc-AI) - Contains all codes and ML models I developed for my MSc in Artificial Intelligence at the University of Wolverhampton. It documents projects, experiments, and results, and includes core libraries (NumPy, Pandas, scikit-learn, TensorFlow, PyTorch, SciPy).
-- [Network-Automation](https://github.com/santiago-cruzlopez/Network-Automation) - A comprehensive Infrastructure as Code (IaC) repository designed to automate the lifecycle of network security operations.
+## 🌐 Network Automation & AIOps
+- **[Network-Automation](https://github.com/santiago-cruzlopez/Network-Automation)** — Infrastructure as Code repository automating the lifecycle of network security operations.
+- **[WLV-MSc-AI](https://github.com/santiago-cruzlopez/WLV-MSc-AI)** — ML models and experiments from my MSc in Artificial Intelligence (University of Wolverhampton), built with NumPy, Pandas, scikit-learn, TensorFlow, and PyTorch.
 
-## Embedded Systems Projects
-- [GST-DeckLink](https://github.com/santiago-cruzlopez/GST-DeckLink) - High-performance C/C++ and Python implementation for BlackMagic DeckLink Duo card integration. Features GPU acceleration with OpenCV and CUDA for optimized video processing in broadcasting and live events.
-- [Smart Home Automation System](https://github.com/santiago-cruzlopez/Arduino-Projects/tree/main/2_Home%20Automation) - IoT solution using Arduino UNO R4 WIFI with Arduino Cloud integration. Includes DHT11 environmental monitoring, I2C LCD, motion detection, and remote control capabilities. Explore additional Arduino and IoT projects in the [Arduino-Projects](https://github.com/santiago-cruzlopez/Arduino-Projects).
+## 🔧 Other Engineering Projects
+Broader interests that keep my systems, hardware, and quantitative math skills sharp:
+- **[GST-DeckLink](https://github.com/santiago-cruzlopez/GST-DeckLink)** — High-performance C/C++ and Python integration for BlackMagic DeckLink Duo cards, with GPU-accelerated video processing (OpenCV, CUDA) for broadcast and live events.
+- **[Smart Home Automation](https://github.com/santiago-cruzlopez/Arduino-Projects/tree/main/2_Home%20Automation)** — IoT system on Arduino UNO R4 WiFi with Arduino Cloud, DHT11 monitoring, I2C LCD, and motion detection. More in [Arduino-Projects](https://github.com/santiago-cruzlopez/Arduino-Projects).
+- **[MQL5](https://github.com/santiago-cruzlopez/MQL5)** — Automated trading algorithms (Expert Advisors) on MetaTrader 5: trend-following, scalping, and neural-network strategies with risk management, backtesting, and Discord alerts.
+- **[Quantitative-Trading](https://github.com/santiago-cruzlopez/Quantitative-Trading)** — Trading toolkit with data acquisition, backtesting engines, and ML integration (TensorFlow/Keras, Bayesian Neural Networks) for predictive market analysis.
 
-## Computational Finance Projects
-- [MQL5](https://github.com/santiago-cruzlopez/MQL5) - Developed automated trading algorithms on the MetaTrader 5 platform using MQL5 language to develop profitable Expert Advisors. Implemented various strategies, including trend following, scalping, and neural networks, with robust risk management, backtesting capabilities, and Discord integration for real-time alerts.
-- [Quantitative-Trading](https://github.com/santiago-cruzlopez/Quantitative-Trading) - Comprehensive trading toolkit featuring data acquisition, backtesting engines, and machine learning integration with TensorFlow/Keras and Auto-Bayesian Neural Networks for predictive market analysis.
+## 🛠️ Skills
+- **Networking & Security:** Cisco IOS · VLANs, BGP, OSPF · Firewalls (Fortinet, Palo Alto, Cisco Firepower) · VPN · IDS/IPS
+- **Automation:** Ansible · PowerShell · Git
+- **Infrastructure & Virtualization:** VMware ESXi · Hyper-V · Proxmox VE · SAN/NAS
+- **Operating Systems:** Windows Server 2022 · Windows 10/11 · Ubuntu
+- **Programming:** Python · C/C++ · MQL5 · Bash
 
-## Skills
-- **Infrastructure & Virtualization:** VMware vSphere & ESXi - Hyper-V - Proxmox VE - SAN/NAS
-- **Operating Systems & Automation:** Windows Server - Ubuntu - PowerShell - Bash - Ansible - Puppet
-- **Networking & Security:** Cisco IOS - VLANs, BGP, OSPF - Firewalls (Fortinet, Palo Alto) - VPN - IDS/IPS
-- **Programming & Scripting:** Python - C/C++ - MQL5 - Bash - Git
-
-### Tech Savvy
-[![My Skills](https://skillicons.dev/icons?i=arduino,aws,azure,cpp,py,powershell&perline=3)](https://skillicons.dev)
-
-### OS: Windows and Linux Lover ❤️
-
-| Windows | Linux | Ubuntu |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
-
-## Santiago Cruz's GitHub Stats  
-
-| **Statistics** | **Programming Languages** |  
-|:---:|:---:|  
-| ![Santiago Cruz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiago-cruzlopez&show_icons=true&locale=en) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=santiago-cruzlopez&show_icons=true&locale=en&layout=compact) |
+## ⚡ Tech Savvy
+[![My Skills](https://skillicons.dev/icons?i=ansible,linux,py,bash,git,grafana,tensorflow,pytorch&perline=8)](https://skillicons.dev)
